@@ -3,9 +3,10 @@ Hello,my name is Parcelli.
 I am a bioinformatics intern at icipe with an undergraduate background in Bsc Biomedical Science and technology.
 I am excited to undertake this journey and to share the milestones at this platform.
 ## Short term goals
-To equip myself with the relevant basic skills in Bioinformatics as a step towards my specialization in Molecular Biology
+To equip myself with the relevant basic skills in Bioinformatics as a step towards my specialization in Genomics.
 ## Long term goals
-To further my studies and experience in the field of Bioinformatics and Molecular Biology by pursuing a postgraduate degree in the same field.
+To further my studies and experience in the field of Bioinformatics and Genomics and eventually be able to answer questions on how genes results to disease.
+To use my skills to understand root cause of diseases and by doing so help to improve the quality of life.
 ## Roadmap
 The roadmap to achieving my short term goals involves learning relevant skills and application in Bionformatics as follows;
 1. Introduction to genomics
@@ -16,5 +17,6 @@ The roadmap to achieving my short term goals involves learning relevant skills a
 The milestones made so far are;
 I have learnt collaborative tools;Github and Slack communications
 I have learnt Open Science
+I have learnt Biological Database 
 
 
